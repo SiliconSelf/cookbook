@@ -7,7 +7,7 @@ enableGitInfo = true # N.B. .GitInfo does not currently function with git submod
 defaultContentLanguage = 'en'
 [languages]
   [languages.en]
-    title = "Wren's Recipe Book"
+    title = "Wren's Cookbook"
     languageName = "English"
     weight = 10
 
