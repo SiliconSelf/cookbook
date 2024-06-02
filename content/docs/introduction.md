@@ -26,7 +26,7 @@ understand how their cooking works.
 
 ## Me, My Food, And My Goals
 
-I'm Wren. This being a github site, I obviously am a programmer on the internet
+This being a github site, I obviously am a programmer on the internet
 first and foremost. More relevant to this website, I'm also a United States Army
 Special Forces veteran, martial artist, and rock climber. With all of that
 physical activity, I've had to also fill the role of home cook to meet my
