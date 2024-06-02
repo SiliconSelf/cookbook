@@ -5,7 +5,7 @@ description: ""
 icon: "article"
 date: "2024-06-02T12:25:52-06:00"
 lastmod: "2024-06-02T12:25:52-06:00"
-draft: true
+draft: false
 toc: true
 ---
 
@@ -15,10 +15,10 @@ There is a crisis of nutrition around the world, especially in the United States
 where I live. As the inflation of food prices combined with stagnating wages
 leads to backbreaking food budgets,
 [80% of Americans now consider fast food a luxury because of high prices](https://www.foxbusiness.com/economy/americans-consider-fast-food-luxury-high-prices).
-Combining that with people knowing less about cooking than ever before because
-of the death of home economics and physical education classes, is it any wonder
-that obesity rates are as high as they are; that Ozempic being used off-label as
-a "skinny shot" is being prescribed en masse?
+Combining that fact with people knowing less about cooking than ever before
+because of the death of home economics and physical education classes, is it any
+wonder that obesity rates are as high as they are; that Ozempic being used
+off-label as a "skinny shot" is being prescribed en masse?
 
 It is time for people to relearn how to cook. With this website, I don't want to
 just make an archive of my own personal recipes. I also want to help people
