@@ -88,6 +88,53 @@ meat.
 
 ### Pan
 
+Frying pans are required for nearly every meal, and there's a lot of variance in
+them throughout the industry both in material and pricepoint. At the bottom end,
+Webstraunt Supply sells
+[basic pans for less than $10 each](https://www.webstaurantstore.com/choice-10-aluminum-fry-pan/407FRYPAN.html)
+that will match or exceed the quality of anything at a store like Walmart. If
+nonstick is more your speed, the
+[PTFE coated version](https://www.webstaurantstore.com/choice-10-non-stick-aluminum-fry-pan/407FRYPANNS.html)
+only costs around a dollar extra.
+
+If you want to go a step up in quality, the same store has other more expensive
+offerings from brands like Vigor. There's also
+[Made In](https://madeincookware.com/), the hot new kid on the block that's been
+sponsoring YouTubers left and right. None of these are recommendations as I have
+not personally used them, but they are options you can try if you want to spend
+more for potentially better quality.
+
+{{% alert context="danger" %}}
+
+If you opt for PTFE-coated cookware for its nonstick properties, make sure you
+understand the health implications of doing so. While the potential toxicity of
+PTFE itself is not well researched, at normal cooking temperatures PTFE releases
+chemicals and gasses of mild to severe toxicity. Always use PTFE cookware in a
+well ventilated area and never put PTFE in the oven. For more information, read
+[this paper](https://pubmed.ncbi.nlm.nih.gov/28913736/).
+
+{{% /alert %}}
+
 ### Pot
 
+Pots are pretty boring. You put water in it, add heat, and eventually the water
+boils. I don't have a specific brand to recommend here, just get something
+simple and well constructed. 8 quarts is usually a good volume for most
+purposes.
+
 ## Nice-To-Have
+
+These are other things that aren't necessarily required to cook, but will make
+your life a lot easier if you have the money to spare to pick them up.
+
+### Rice Cooker
+
+While not technically required, if you cook a lot of rice these are an excellent
+investment and usually fairly cheap. I won't recommend a specific product
+because they're very simple machines and largely interchangeable.
+
+### Colander
+
+The colander is the rice cooker of the pasta world. If you make pasta dishes
+with any regularity, I highly recommend getting one to make your life a lot
+easier when it comes time to drain the pot.
