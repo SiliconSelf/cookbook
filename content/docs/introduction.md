@@ -26,15 +26,15 @@ understand how their cooking works.
 
 ## Me, My Food, And My Goals
 
-This being a github site, I obviously am a programmer on the internet
-first and foremost. More relevant to this website, I'm also a United States Army
-Special Forces veteran, martial artist, and rock climber. With all of that
-physical activity, I've had to also fill the role of home cook to meet my
-personal above-average nutritional needs and I've personally found a lot of
-enjoyment and meditation in cooking. Cooking has a widespread reputation of
-something that is super laborious, messy, and exhausting. My hope is that you'll
-give me a chance to prove that conception wrong with some basic equipment,
-technique, and knowledge.
+This being a github site, I obviously am a programmer on the internet first and
+foremost. More relevant to this website, I'm also a United States Army Special
+Forces veteran, martial artist, and rock climber. With all of that physical
+activity, I've had to also fill the role of home cook to meet my personal
+above-average nutritional needs and I've personally found a lot of enjoyment and
+meditation in cooking. Cooking has a widespread reputation of something that is
+super laborious, messy, and exhausting. My hope is that you'll give me a chance
+to prove that conception wrong with some basic equipment, technique, and
+knowledge.
 
 Because of the nutritional needs required to keep up with my activity as a
 martial artist and rock climber, most of what's on this website is intended to
@@ -60,5 +60,5 @@ see any ads, tracking cookies, or affiliate links on this website. Not all of
 these recipes are my own creation and I will make a best effort to credit the
 original authors whenever applicable and possible. In the interests of quality
 control, all recipes on this website have been made by me at least once. I do
-not have any sponsors, any product recommendations are my own personal equipment
-that I have used and personally recommend.
+not have any sponsors and any product recommendations are my own personal
+equipment that I have used and personally recommend.
