@@ -2,7 +2,7 @@
 weight: 901
 title: "Teriyaki-ish Tofu"
 description: ""
-icon: "article"
+icon: "rice_bowl"
 date: "2024-06-02T18:25:13-06:00"
 lastmod: "2024-06-02T18:25:13-06:00"
 draft: false

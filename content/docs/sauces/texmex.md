@@ -2,7 +2,7 @@
 weight: 302
 title: "Tex Mex Sauce"
 description: ""
-icon: "article"
+icon: "egg"
 date: "2024-06-02T17:32:50-06:00"
 lastmod: "2024-06-02T17:32:50-06:00"
 draft: false
