@@ -60,7 +60,7 @@ You will need:
 1. Heat your frying pan to medium-high heat and melt 1Tbsp of butter.
 2. Once butter is melted, add all of the diced green pepper cooking for 3-4
    minutes until softened.
-3. Add black beans, tex mex paste, salt, and pepper. Cook until beans are heated
+3. Add black beans, tex mex sauce, salt, and pepper. Cook until beans are heated
    through.
 4. Turn off the heat, transfer the filling to a bowl or plate, and wipe out the
    pan with a towel.
