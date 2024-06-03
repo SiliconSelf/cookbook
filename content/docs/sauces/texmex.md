@@ -23,9 +23,6 @@ toc: true
 8. 0.5 Tsp dried oregano
 9. 0.5 Tsp ground black pepper
 
-Celery salt, garlic powder, salt, oregano, onion powder, chili powder, cayenne,
-cumin -- add to tomato paste
-
 {{% /tab %}} {{% tab tabName="Equipment" %}}
 
 You will need:
