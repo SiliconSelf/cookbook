@@ -2,7 +2,7 @@
 weight: 701
 title: "One Pan Black Bean Quesadillas"
 description: ""
-icon: "article"
+icon: "lunch_dining"
 date: "2024-06-02T17:20:31-06:00"
 lastmod: "2024-06-02T17:20:31-06:00"
 draft: false
