@@ -49,34 +49,46 @@ Use a food thermometer inserted into the thickest point to measure the internal
 temperature of food. When cooking animal products, make sure you bring them to
 these corresponding internal temperatures set by the FDA.
 
-{{< table "table-striped" >}}
-| Meat | Temperature |
-|---------|--------|
-| Beef, Pork, Veal, and Lamb chops/steaks | 145F |
-| Ground Meat | 160F |
-| Ham, Raw | 145F |
-| Ham, Reheated | 140F |
-| Poultry | 165F |
-| Eggs | Until yolk and white are firm |
-| Egg Dishes | 160F |
-| Fish | 145F or until flesh is opaque and separates easily with fork |
-| Shrimp, Lobster, Crab | Cook until flesh is pearly and opaque |
-| Clams, Oysters, Mussels | Cook until shells open |
-| Scallops | Cook until flesh is milky white or opaque and firm |
-| Leftovers and Casseroles | 165F |
+{{< table "table-striped" >}} | Meat | Temperature | |---------|--------| |
+Beef, Pork, Veal, and Lamb chops/steaks | 145F | | Ground Meat | 160F | | Ham,
+Raw | 145F | | Ham, Reheated | 140F | | Poultry | 165F | | Eggs | Until yolk and
+white are firm | | Egg Dishes | 160F | | Fish | 145F or until flesh is opaque
+and separates easily with fork | | Shrimp, Lobster, Crab | Cook until flesh is
+pearly and opaque | | Clams, Oysters, Mussels | Cook until shells open | |
+Scallops | Cook until flesh is milky white or opaque and firm | | Leftovers and
+Casseroles | 165F |
 
 {{< /table >}}
 
 ### Chill Food
 
-Foods not in use should be refrigerated promptly. A refrigerator should maintain an internal temperature less than 40 degrees and a freezer below 0 degress. Never thaw frozen foods at room temperature. Always keep marinating food in the refrigerator.
+Foods not in use should be refrigerated promptly. A refrigerator should maintain
+an internal temperature less than 40 degrees and a freezer below 0 degress.
+Never thaw frozen foods at room temperature. Always keep marinating food in the
+refrigerator.
 
 ## Myths About Food Safety
 
 ### "Washing" Meat
 
-Washing meat by rinsing it in running water or soaking it in saltwater, vinegar, lemon juice, or another acid does not effectively sanitize meat. Washing meats is not recommended by the US FDA or USDA and will only serve to spread foodborne illness like salmonella from raw meat to other foods, utensils, or surfaces. Cooking meat to a sufficient internal temperature is the only way to kill foodborne pathogens.
+Washing meat by rinsing it in running water or soaking it in saltwater, vinegar,
+lemon juice, or another acid does not effectively sanitize meat. Washing meats
+is not recommended by the US FDA or USDA and will only serve to spread foodborne
+illness like salmonella from raw meat to other foods, utensils, or surfaces.
+Cooking meat to a sufficient internal temperature is the only way to kill
+foodborne pathogens. This is not the same as brining or marinating chicken for
+flavor.
 
 ### "The 24-Hour Flu"
 
-If you heard a lot about the "24-hour flu" growing up, it's not real. That term actually refers to gastroenteritis, typically caused either by norovirus or rotavirus which are spread through ingesting the feces of an infected person. This happens most frequently when proper food hygiene practices, especially washing produce, are not carried out.
+If you heard a lot about the "24-hour flu" growing up, it's not real. That term
+actually refers to gastroenteritis, typically caused either by norovirus or
+rotavirus which are spread through ingesting the feces of an infected person.
+This happens most frequently when proper food hygiene practices, especially
+washing produce, are not carried out.
+
+### Medium-Rare Chicken
+
+Do not.
+
+###
