@@ -1,5 +1,5 @@
 ---
-weight: 999
+weight: 501
 title: "Basic Belgian Waffle"
 description: ""
 icon: "article"

@@ -1,5 +1,5 @@
 ---
-weight: 999
+weight: 602
 title: "Citrus Waffles with Cream Cheese Drizzle"
 description: ""
 icon: "brunch_dining"
