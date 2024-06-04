@@ -2,7 +2,7 @@
 weight: 501
 title: "Basic Belgian Waffle"
 description: ""
-icon: "article"
+icon: "egg_alt
 date: "2024-06-04T09:56:35-06:00"
 lastmod: "2024-06-04T09:56:35-06:00"
 draft: false
