@@ -2,7 +2,7 @@
 weight: 501
 title: "Basic Belgian Waffle"
 description: ""
-icon: "egg_alt
+icon: "egg_alt"
 date: "2024-06-04T09:56:35-06:00"
 lastmod: "2024-06-04T09:56:35-06:00"
 draft: false
@@ -11,7 +11,7 @@ toc: true
 
 ## Requirements
 
-{{< tabs tabTotal="2">}} {{% tab tabName="Ingredients" %}} You will need:
+{{< tabs tabTotal="3">}} {{% tab tabName="Ingredients" %}} You will need:
 
 1. 1.75 Cups all-purpose flour
 2. 3 Tsp baking powder
@@ -28,7 +28,15 @@ You will need:
 2. Mixing bowls
 3. Hand mixer (A whisk will work if you're determined)
 
-{{% /tab %}}{{< /tabs >}}
+{{% /tab %}} {{% tab tabName="Allergens" %}} This recipe contains:
+
+1. Eggs
+2. Milk
+3. Wheat
+
+{{% /tab %}}
+
+{{< /tabs >}}
 
 ---
 

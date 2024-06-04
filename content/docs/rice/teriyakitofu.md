@@ -39,6 +39,8 @@ You will need:
 
 1. Soy
 
+{{% /tab %}}
+
 {{< /tabs >}}
 
 ---
