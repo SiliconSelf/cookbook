@@ -9,13 +9,16 @@ draft: false
 toc: true
 ---
 
-One night I was attempting to cook some tofu and rice and completely ruined my sauce. I didn't have the spare ingredients to start over, but my spouse made up this sauce on the spot and it ended up tasting really good.
+One night I was attempting to cook some tofu and rice and completely ruined my
+sauce. I didn't have the spare ingredients to start over, but my spouse made up
+this sauce on the spot and it ended up tasting really good.
 
-You will likely have to go to a chinese grocer for some of the seasonings required for this, but I promise they're worth it.
+You will likely have to go to a chinese grocer for some of the seasonings
+required for this, but I promise they're worth it.
 
 ## Requirements
 
-{{< tabs tabTotal="2">}} {{% tab tabName="Ingredients" %}} You will need:
+{{< tabs tabTotal="3">}} {{% tab tabName="Ingredients" %}} You will need:
 
 1. 1 Tbsp cornstarch
 2. 4 Tbsp dark soy sauce
@@ -35,7 +38,11 @@ You will need:
 1. Bowl
 2. Whisk, chopsticks, or fork
 
-{{% /tab %}}{{< /tabs >}}
+{{% /tab %}} {{% tab tabName="Allergens" %}} This recipe contains:
+
+1. Soy {{% /tab %}}
+
+{{< /tabs >}}
 
 ---
 

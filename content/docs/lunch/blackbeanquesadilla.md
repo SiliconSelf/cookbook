@@ -14,7 +14,7 @@ make on a tight schedule with limited equipment.
 
 ## Requirements
 
-{{< tabs tabTotal="2">}} {{% tab tabName="Ingredients" %}} You will need:
+{{< tabs tabTotal="3">}} {{% tab tabName="Ingredients" %}} You will need:
 
 1. 1x green Anaheim or Poblano pepper
 2. 1x can black beans
@@ -39,7 +39,14 @@ You will need:
 3. Medium bowl / Plate
 4. Frying pan
 
-{{% /tab %}} {{< /tabs >}}
+{{% /tab %}} {{% tab tabName="Allergens" %}}
+
+This recipe contains:
+
+1. Milk
+2. Wheat
+
+{{% /tab %}}{{< /tabs >}}
 
 ---
 
