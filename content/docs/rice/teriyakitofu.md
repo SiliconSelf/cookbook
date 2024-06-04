@@ -11,7 +11,7 @@ toc: true
 
 ## Requirements
 
-{{< tabs tabTotal="2">}} {{% tab tabName="Ingredients" %}} You will need:
+{{< tabs tabTotal="3">}} {{% tab tabName="Ingredients" %}} You will need:
 
 1. 1 Crown of Broccoli
 2. 3/4 cup Jasmine Rice
@@ -33,7 +33,13 @@ You will need:
 2. Frying pan
 3. Small pot or rice cooker
 
-{{% /tab %}}{{< /tabs >}}
+{{% /tab %}}
+
+{{% tab tabName="Allergens"%}} This recipe contains:
+
+1. Soy
+
+{{< /tabs >}}
 
 ---
 
