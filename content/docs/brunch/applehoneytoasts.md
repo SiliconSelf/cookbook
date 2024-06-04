@@ -33,7 +33,18 @@ You will need:
 1. Medium bowl
 2. Large bowl
 
-{{% /tab %}} {{< /tabs >}}
+{{% /tab %}}
+
+{{% tab tabName="Allergens"%}} This recipe contains:
+
+1. Soy
+2. Wheat
+3. Milk
+4. Tree Nuts
+
+{{% /tab %}}
+
+{{< /tabs >}}
 
 ---
 
