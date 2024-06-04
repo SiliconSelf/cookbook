@@ -11,7 +11,7 @@ toc: true
 
 ## Reuqirements
 
-{{< tabs tabTotal="2">}} {{% tab tabName="Ingredients" %}} You will need:
+{{< tabs tabTotal="3">}} {{% tab tabName="Ingredients" %}} You will need:
 
 1. 1 granny smith apple
 2. 4 slices of sourdough bread
