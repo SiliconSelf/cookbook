@@ -58,14 +58,14 @@ This recipe contains:
 2. Cut lime into quarters
 3. Drain and rinse beans
 4. Slice strips off of green pepper, then dice.
-5. Combine all of the sour cream with the juice of a quarter of the lime. Stir
+5. Combine all the sour cream with the juice of a quarter of the lime. Stir
    to combine, then add water a small amount at a time until the sour cream
    reaches a drizzling consistency.
 
 ### 2. Making The Filling
 
 1. Heat your frying pan to medium-high heat and melt 1Tbsp of butter.
-2. Once butter is melted, add all of the diced green pepper cooking for 3-4
+2. Once butter is melted, add all the diced green pepper cooking for 3-4
    minutes until softened.
 3. Add black beans, tex mex sauce, salt, and pepper. Cook until beans are heated
    through.
