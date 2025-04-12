@@ -1,7 +1,7 @@
 ---
 weight: 100
 title: "Introduction"
-description: ""
+description: "Start Here"
 icon: "article"
 date: "2024-06-02T12:25:52-06:00"
 lastmod: "2024-06-02T12:25:52-06:00"
