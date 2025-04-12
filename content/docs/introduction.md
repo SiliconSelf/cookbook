@@ -28,7 +28,7 @@ understand how their cooking works.
 
 This being a github site, I obviously am a programmer on the internet first and
 foremost. More relevant to this website, I'm also a United States Army Special
-Forces veteran, martial artist, and rock climber. With all of that physical
+Forces veteran, competitive shooter, martial artist, and rock climber. With all of that physical
 activity, I've had to also fill the role of home cook to meet my personal
 above-average nutritional needs and I've personally found a lot of enjoyment and
 meditation in cooking. Cooking has a widespread reputation of something that is
