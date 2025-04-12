@@ -11,7 +11,7 @@ toc: true
 
 ## Requirements
 
-{{< tabs tabTotal="2">}} {{% tab tabName="Ingredients" %}} You will need:
+{{< tabs tabTotal="3">}} {{% tab tabName="Ingredients" %}} You will need:
 
 1. 6oz canned tomato paste
 2. 4 Tsp chili powder
@@ -28,6 +28,10 @@ toc: true
 You will need:
 
 1. Small pot
+
+{{% /tab %}} {{% tab tabName="Allergens" %}}
+
+This recipe contains none of the 9 most common allergens.
 
 {{% /tab %}}{{< /tabs >}}
 
