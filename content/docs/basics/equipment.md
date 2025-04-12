@@ -98,11 +98,13 @@ nonstick is more your speed, the
 only costs around a dollar extra.
 
 If you want to go a step up in quality, the same store has other more expensive
-offerings from brands like Vigor. There's also
+offerings from brands like Vigor. ~~There's also
 [Made In](https://madeincookware.com/), the hot new kid on the block that's been
 sponsoring YouTubers left and right. None of these are recommendations as I have
 not personally used them, but they are options you can try if you want to spend
-more for potentially better quality.
+more for potentially better quality.~~
+
+Update 04/2024: I have since used Made In's stainless steel cookware and am a convert. If the price range is in the cards for you, I can now strongly recommend [Made In's 10-Piece Stainless Set](https://madeincookware.com/products/the-stainless-sets/10-piece) from personal experience.
 
 {{% alert context="danger" %}}
 
